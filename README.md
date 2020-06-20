@@ -1,7 +1,7 @@
 # Checking-WiFi-connection
 
 <br><br>
-# For the tutorial of this code, please vist:
+For the tutorial of this code, please vist:
 https://youtu.be/9a-tNE6j31o
 
 <br>
